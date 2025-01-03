@@ -18,7 +18,7 @@ See the Mulan PSL v2 for more details. */
 #include "common/log/log.h"
 #include "common/lang/comparator.h"
 #include "common/lang/string.h"
-#include "common/time/date.h"
+#include "common/time/date.h"//引入日期
 
 const char *ATTR_TYPE_NAME[] = {"undefined", "chars", "ints", "floats","doubles", "dates", "long", "texts", "nulls", "booleans"};
 

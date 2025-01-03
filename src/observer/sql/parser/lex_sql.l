@@ -71,7 +71,8 @@ QUOTE            [\'\"]
 /* 1. 匹配的规则长的优先 */
 /* 2. 写在最前面的优先 */
 
-/* yylval 就可以认为是 yacc 中 %union 定义的结构体(union 结构) */
+/* 新增日期*/
+/*yylval 就可以认为是 yacc 中 %union 定义的结构体(union 结构) */
 %%
 
 {WHITE_SAPCE}                                        // ignore whitespace

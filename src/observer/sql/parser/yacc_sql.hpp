@@ -122,7 +122,7 @@ extern int yydebug;
     FLOAT = 328,
     ID = 329,
     SSS = 330,
-    DATE_STR = 331,
+    DATE_STR = 331, //date
     UMINUS = 332
   };
 #endif

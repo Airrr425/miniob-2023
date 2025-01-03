@@ -32,7 +32,7 @@ enum AttrType
   INTS,           ///< 整数类型(4字节)
   FLOATS,         ///< 浮点数类型(4字节)
   DOUBLES,        
-  DATES,          ///< 日期类型
+  DATES,          ///< 日期
   LONGS,          ///< Int64
   TEXTS,          ///< text类型，最大65535字节
   NULLS,          ///< null类型
